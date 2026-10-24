@@ -1,0 +1,15 @@
+# Carpetas de compilación de .NET
+bin/
+obj/
+
+# Visual Studio / VS Code / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Otras excepciones
+*.log
+.DS_Store
+Thumbs.db
